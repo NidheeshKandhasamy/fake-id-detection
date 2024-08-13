@@ -65,4 +65,6 @@ Performance metrics and model evaluations are detailed in the results folder. Re
 Feel free to contribute to this project by submitting pull requests or opening issues.
 
 ## License
-Specify the license under which the project is distributed.
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
